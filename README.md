@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Murali
 
-<!--
-**murali666sys/murali666sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Java Full Stack Developer, currently learning and building real-world projects. I'm here to learn, grow, and contribute to exciting technologies!
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java | Spring Boot | REST APIs
+- Angular | React | HTML | CSS | JavaScript
+- MySQL | MongoDB
+- Git | GitHub | Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects (More coming soon!)
+- [Personal Portfolio Website](#)
+- [Weather App](#)
+- [Task Manager App](#)
+
+## 📫 Connect with me
+- http://linkedin.com/in/muralikrishna666
+- Email:hellomuralikrishna66@gmail.com
